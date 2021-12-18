@@ -1,0 +1,9 @@
+﻿.turex-loader {
+    height: 70px;
+    background-image: url(../spinner.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* padding: 20px; */
+    margin-top: 5px;
+}
